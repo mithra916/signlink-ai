@@ -1,8 +1,8 @@
 # signlink-ai
 "An inclusive AI system that translates text or speech into sign language videos and vice versa, empowering speech and hearing impaired Divyangjans."
 
-SignLink – Bridging Communication Through AI
-SignLink is an intelligent communication system that empowers individuals from the deaf and mute community by breaking traditional language barriers. This AI-powered web application seamlessly converts sign language gestures into readable text, enables speech-to-text conversion, and supports text-to-speech output, fostering inclusive digital interaction.
+## SignLink – Bridging Communication Through AI
+```SignLink is an intelligent communication system that empowers individuals from the deaf and mute community by breaking traditional language barriers. This AI-powered web application seamlessly converts sign language gestures into readable text, enables speech-to-text conversion, and supports text-to-speech output, fostering inclusive digital interaction.```
 
 Key Highlights
   Sign Language Recognition
